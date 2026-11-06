@@ -132,5 +132,5 @@ Urban_Thread/
 ---
 
 ## 👤 Author
-**Anshika Rawat**  
-[rawatanshiak007@gmail.com](mailto:rawatanshiak007@gmail.com)
+**Sarvarth Singh**  
+[sarvarthsingh@gmail.com](mailto:sarvarthsingh@gmail.com)
